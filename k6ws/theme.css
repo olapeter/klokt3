@@ -1,0 +1,31 @@
+/* @theme klokt */
+
+@import 'default';
+
+section {
+  background-color: #f0f0f0;
+  color: #333;
+  font-family: 'Helvetica', sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  color: green;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.25rem;
+  color: darkgreen;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1rem;
+  color: darkgreen;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
